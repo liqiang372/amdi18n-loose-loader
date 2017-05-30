@@ -1,0 +1,1 @@
+A clone to [webpack-amdi18n-loader](https://github.com/futuweb/webpack-amdi18n-loader).

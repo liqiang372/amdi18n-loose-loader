@@ -1,0 +1,29 @@
+{
+  "name": "amdi18n-loose-loader",
+  "version": "0.0.1",
+  "description": "A clone to webpack-amdi18n-loader, but tolerates incomplete language files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liqiang372/amdi18n-loose-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "amdi18n",
+    "clone"
+  ],
+  "author": "liqiang372 <liqiang372@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liqiang372/amdi18n-loose-loader/issues"
+  },
+  "homepage": "https://github.com/liqiang372/amdi18n-loose-loader#readme",
+  "dependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.12.2",
+    "webpack": "^1.14.0"
+  }
+}
