@@ -1,6 +1,6 @@
 {
   "name": "amdi18n-loose-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A clone to webpack-amdi18n-loader, but tolerates incomplete language files",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "dependencies": {
     "coffee-loader": "^0.7.2",
     "coffee-script": "^1.12.2",
+    "loader-utils": "^1.1.0",
     "webpack": "^1.14.0"
   }
 }
